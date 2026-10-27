@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eMudhra is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://emudhra.com/
+eMudhra provides enterprise-grade Public Key Infrastructure (PKI) solutions, including post‑quantum cryptography, digital signatures, e‑signing, identity verification, and secure document workflow services. Their platform supports enterprises, governments, and financial institutions with compliance‑ready digital trust tools, offering products such as emSigner, SecurePass, and IDBroker for robust authentication and electronic signing.
+
+**Areas:** Company · PKI · DigitalTrust · EnterpriseSoftware · Security
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://emudhra.com/)
+- [Sign up](https://emudhra.com/en/certinext/signup)
+- [Support](https://support.emudhra.com/portal/en/home)
+- [Blog](https://emudhra.com/en-us/blog)
+- [Terms of service](https://emudhra.com/terms-of-use)
+- [Privacy policy](https://emudhra.com/privacy-policy)
+- [GitHub](https://github.com/emudhra)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/emudhra/](https://apis.io/providers/emudhra/).
